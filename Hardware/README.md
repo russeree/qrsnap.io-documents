@@ -1,0 +1,1 @@
+#QR Snap Server Hardware
