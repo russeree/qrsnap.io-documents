@@ -5,6 +5,6 @@ QR Snap hosts a CDN (Content Delivery Network) for QR Snap website integration t
 The optimization of CSS inclusion to your stores website is critical. To do this follow this structure.
 
 ##CSS
-'''
+```
 <link rel="stylesheet" href="https://qrsnap.io/cdn/<your business>/css/<your file>.css" media="SnapSync" onload="this.media='all'">
-'''
+```
