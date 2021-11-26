@@ -1,2 +1,2 @@
 # qrsnap.io-documents
- Documentation for QR Snap.io Services
+The official QR Snap documentation center. This repo contains the documents necessary to understand and use QR Snap services with the highest level of success. Each folder contains a readme.md file that displays the primary content of that folders topic. e.x. ‘Facebook Pixel’ will discuss most aspects of integrating will discuss the implementation of Facebook Pixels and how that can be used with SnapURLs and SnapTags. 
